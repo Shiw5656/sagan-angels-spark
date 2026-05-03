@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="container py-14 grid gap-10 md:grid-cols-4">
         <div className="space-y-4">
           <div className="flex items-center gap-2">
-            <img src={logo} alt="Sagan Angels School" className="h-10 w-10 bg-white rounded-md p-1" width={40} height={40} />
+            <img src={logo} alt="Sagan Aangels School" className="h-10 w-10 bg-white rounded-md p-1" width={40} height={40} />
             <div>
-              <div className="font-heading font-bold">Sagan Angels School</div>
+              <div className="font-heading font-bold">Sagan Aangels School</div>
               <div className="text-xs opacity-80">Shaping Future Since 2016</div>
             </div>
           </div>
@@ -54,7 +54,7 @@ const Footer = () => {
       </div>
       <div className="border-t border-white/10">
         <div className="container py-5 text-center text-xs opacity-70">
-          © {new Date().getFullYear()} Sagan Angels School. All rights reserved.
+          © {new Date().getFullYear()} Sagan Aangels School. All rights reserved.
         </div>
       </div>
     </footer>

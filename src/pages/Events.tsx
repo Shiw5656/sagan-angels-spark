@@ -9,7 +9,7 @@ const Events = () => {
 
   return (
     <Layout>
-      <PageHero title="Events & Gallery" subtitle="A glimpse into life at Sagan Angels School." />
+      <PageHero title="Events & Gallery" subtitle="A glimpse into life at Sagan Aangels School." />
       <section className="container py-16">
         <div className="columns-2 md:columns-3 lg:columns-4 gap-4 [column-fill:_balance]">
           {events.map((e, i) => (

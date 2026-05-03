@@ -5,7 +5,7 @@ import { trustees } from "@/data/site";
 
 const Trustees = () => (
   <Layout>
-    <PageHero title="Our Trustees" subtitle="Meet the visionaries guiding Sagan Angels School." />
+    <PageHero title="Our Trustees" subtitle="Meet the visionaries guiding Sagan Aangels School." />
     <section className="container py-20">
       <div className="grid sm:grid-cols-2 lg:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {trustees.map((t) => (

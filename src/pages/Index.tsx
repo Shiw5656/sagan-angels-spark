@@ -22,7 +22,7 @@ const Home = () => {
               <Sparkles className="h-4 w-4" /> Established 2016 • Neknamepur, Bihar
             </span>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-extrabold leading-tight">
-              <span className="text-gradient">Sagan Angels</span><br />
+              <span className="text-gradient">Sagan Aangels</span><br />
               <span className="text-foreground">School</span>
             </h1>
             <p className="text-xl text-muted-foreground font-medium">Shaping Future Since 2016</p>
@@ -41,7 +41,7 @@ const Home = () => {
 
           <div className="relative animate-slide-in-right">
             <div className="absolute -inset-4 gradient-primary rounded-3xl blur-2xl opacity-30" />
-            <img src={hero} alt="Sagan Angels School students smiling in classroom" width={1280} height={960}
+            <img src={hero} alt="Sagan Aangels School students smiling in classroom" width={1280} height={960}
               className="relative rounded-3xl shadow-elegant w-full h-auto object-cover" />
             <div className="absolute -bottom-6 -left-6 bg-card shadow-card rounded-2xl px-5 py-4 flex items-center gap-3 animate-float">
               <div className="h-12 w-12 rounded-xl gradient-accent grid place-items-center text-white">
@@ -87,7 +87,7 @@ const Home = () => {
           </div>
           <div>
             <SectionHeading center={false} eyebrow="About Us" title="A Place Where Children Love to Learn"
-              subtitle="Since 2016, Sagan Angels School has been a beacon of quality education in Neknamepur, Bihar. We blend modern teaching methods with strong moral values to nurture confident, compassionate learners ready for tomorrow." />
+              subtitle="Since 2016, Sagan Aangels School has been a beacon of quality education in Neknamepur, Bihar. We blend modern teaching methods with strong moral values to nurture confident, compassionate learners ready for tomorrow." />
             <Button asChild variant="hero">
               <Link to="/about">Read More <ArrowRight className="h-4 w-4" /></Link>
             </Button>
