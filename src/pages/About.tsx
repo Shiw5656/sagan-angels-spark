@@ -16,7 +16,7 @@ const facilities = [
 ];
 
 const timeline = [
-  { y: "2016", t: "School Founded", d: "Sagan Angels School opened its doors in Neknamepur, Bihar." },
+  { y: "2016", t: "School Founded", d: "Sagan Aangels School opened its doors in Neknamepur, Bihar." },
   { y: "2018", t: "New Building", d: "Expanded campus with science and computer labs." },
   { y: "2020", t: "Smart Classes", d: "Introduced digital learning across all classes." },
   { y: "2023", t: "200+ Students", d: "Crossed the milestone of 200 happy learners." },
@@ -30,7 +30,7 @@ const About = () => (
       <img src={about} alt="School building" loading="lazy" className="rounded-3xl shadow-card w-full h-auto" />
       <div>
         <SectionHeading center={false} eyebrow="Our Story" title="Eight Years of Shaping Bright Futures"
-          subtitle="Founded in 2016 in the heart of Neknamepur, Bihar, Sagan Angels School began with a simple mission: to make modern, value-based education accessible to every child in our community. Today we are a thriving community of curious learners, dedicated educators and supportive parents." />
+          subtitle="Founded in 2016 in the heart of Neknamepur, Bihar, Sagan Aangels School began with a simple mission: to make modern, value-based education accessible to every child in our community. Today we are a thriving community of curious learners, dedicated educators and supportive parents." />
         <p className="text-muted-foreground leading-relaxed">
           We believe a great school is more than buildings and books — it's a place where children feel safe, seen, and inspired to dream big. Every classroom, every activity and every conversation is designed with that belief in mind.
         </p>

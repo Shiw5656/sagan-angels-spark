@@ -32,9 +32,9 @@ const Navbar = () => {
     <header className={`fixed top-0 inset-x-0 z-50 transition-smooth ${scrolled ? "bg-background/85 backdrop-blur-lg shadow-soft border-b border-border" : "bg-transparent"}`}>
       <nav className="container flex items-center justify-between h-18 py-3">
         <Link to="/" className="flex items-center gap-2 group">
-          <img src={logo} alt="Sagan Angels School logo" className="h-11 w-11 object-contain transition-bounce group-hover:scale-110" width={44} height={44} />
+          <img src={logo} alt="Sagan Aangels School logo" className="h-11 w-11 object-contain transition-bounce group-hover:scale-110" width={44} height={44} />
           <div className="leading-tight">
-            <div className="font-heading font-bold text-base sm:text-lg text-primary">Sagan Angels</div>
+            <div className="font-heading font-bold text-base sm:text-lg text-primary">Sagan Aangels</div>
             <div className="text-[10px] sm:text-xs text-muted-foreground -mt-0.5">School • Est. 2016</div>
           </div>
         </Link>

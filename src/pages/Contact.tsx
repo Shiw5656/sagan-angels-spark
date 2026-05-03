@@ -12,7 +12,7 @@ const Contact = () => (
       <div className="space-y-6">
         <SectionHeading center={false} eyebrow="Contact" title="Visit or Call Us" />
         {[
-          { icon: MapPin, title: "Address", lines: ["Sagan Angels School", "Neknamepur, Bihar, India"] },
+          { icon: MapPin, title: "Address", lines: ["Sagan Aangels School", "Neknamepur, Bihar, India"] },
           { icon: Phone, title: "Phone", lines: ["+91 98765 43210"] },
           { icon: Mail, title: "Email", lines: ["info@saganangels.edu.in"] },
           { icon: Clock, title: "School Hours", lines: ["Mon – Sat : 8:00 AM – 2:00 PM"] },
