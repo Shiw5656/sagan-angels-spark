@@ -22,7 +22,7 @@ export const trustees = [
 ];
 
 export const videos = [
-  { id: 1, title: "Introduction to Numbers", cls: "Class 1", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80" },
+  { id: 1, title: "Introduction to Numbers", cls: "Class 1", yt: "https://youtu.be/ZJEIKkPXirg", thumb: "https://img.youtube.com/vi/ZJEIKkPXirg/hqdefault.jpg" },
   { id: 2, title: "Fun with English Alphabets", cls: "Class 1", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&q=80" },
   { id: 3, title: "Basic Addition & Subtraction", cls: "Class 2", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=80" },
   { id: 4, title: "Our Environment", cls: "Class 2", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&q=80" },
