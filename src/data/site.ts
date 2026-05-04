@@ -1,7 +1,9 @@
 import amitKumar from "@/assets/teachers/amit-kumar.jpg";
+import nilamKumariSinha from "@/assets/teachers/nilam-kumari-sinha.jpg";
 
 export const teachers = [
   { name: "Amit Kumar", subject: "Teacher", experience: "5 years", img: amitKumar },
+  { name: "Nilam Kumari Sinha", subject: "Teacher", experience: "5 years", img: nilamKumariSinha },
 ];
 
 export const trustees = [
