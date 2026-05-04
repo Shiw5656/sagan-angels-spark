@@ -1,11 +1,13 @@
 import amitKumar from "@/assets/teachers/amit-kumar.jpg";
 import nilamKumariSinha from "@/assets/teachers/nilam-kumari-sinha.jpg";
 import chandeshwarPdSingh from "@/assets/teachers/chandeshwar-pd-singh.jpg";
+import anchal from "@/assets/teachers/anchal.jpg";
 
 export const teachers = [
   { name: "Amit Kumar", subject: "Teacher", experience: "5 years", img: amitKumar },
   { name: "Nilam Kumari Sinha", subject: "Teacher", experience: "5 years", img: nilamKumariSinha },
   { name: "Chandeshwar Pd Singh", subject: "Teacher", experience: "11 years", img: chandeshwarPdSingh },
+  { name: "Anchal", subject: "Teacher", experience: "2 years", img: anchal },
 ];
 
 export const trustees = [
