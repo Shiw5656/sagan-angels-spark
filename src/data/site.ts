@@ -45,4 +45,6 @@ export const events = [
   { title: "Teachers Day", img: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=900&q=80" },
 ];
 
+export const inspirations: { name: string; role?: string; msg?: string; img: string }[] = [];
+
 export const classes = ["All", "Class 1", "Class 2", "Class 3", "Class 4", "Class 5"];
