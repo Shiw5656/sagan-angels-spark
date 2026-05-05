@@ -24,8 +24,9 @@ const Footer = () => {
           <ul className="space-y-2 text-sm opacity-90">
             {[
               ["About", "/about"], ["Teachers", "/teachers"],
-              ["Trustees", "/trustees"], ["Videos", "/videos"],
-              ["Events", "/events"], ["Contact", "/contact"],
+              ["Trustees", "/trustees"], ["Inspiration", "/inspiration"],
+              ["Videos", "/videos"], ["Events", "/events"],
+              ["Contact", "/contact"],
             ].map(([n, p]) => (
               <li key={p}><Link to={p} className="hover:text-accent transition-smooth">{n}</Link></li>
             ))}
