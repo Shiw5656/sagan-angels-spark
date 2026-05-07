@@ -28,10 +28,10 @@ export const videos = [
   { id: 4, title: "Our Environment", cls: "Class 2", yt: "https://youtu.be/rweqZPmfg_U?si=u7DJFps5qUDO6wCs", thumb: "https://img.youtube.com/vi/rweqZPmfg_U/hqdefault.jpg" },
   { id: 5, title: "Multiplication Tables", cls: "Class 3", yt: "https://youtu.be/CgkbDcSaHl0?si=TaURCIh-axQ_tNn-", thumb: "https://img.youtube.com/vi/CgkbDcSaHl0/hqdefault.jpg" },
   { id: 6, title: "Plants & Animals", cls: "Class 3", yt: "https://youtu.be/J0rcLGgrzT4?si=zCrIUuN8v4wI4TeS", thumb: "https://img.youtube.com/vi/J0rcLGgrzT4/hqdefault.jpg" },
-  { id: 7, title: "Fractions Made Easy", cls: "Class 4", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=80" },
-  { id: 8, title: "States of Matter", cls: "Class 4", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=600&q=80" },
-  { id: 9, title: "Geometry Basics", cls: "Class 5", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=80" },
-  { id: 10, title: "Solar System", cls: "Class 5", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&q=80" },
+  { id: 7, title: "Fractions Made Easy", cls: "Class 4", yt: "https://youtu.be/EKoI1hYbpA4?si=HDy4k1H28TZAEdag", thumb: "https://img.youtube.com/vi/EKoI1hYbpA4/hqdefault.jpg" },
+  { id: 8, title: "States of Matter", cls: "Class 4", yt: "https://youtu.be/MrTxRn9MNWM?si=O8nqLjwq4JBX6bxW", thumb: "https://img.youtube.com/vi/MrTxRn9MNWM/hqdefault.jpg" },
+  { id: 9, title: "Geometry Basics", cls: "Class 5", yt: "https://youtu.be/cXSN5i3ujyU?si=9ZZuIJmGi4IjNKZs", thumb: "https://img.youtube.com/vi/cXSN5i3ujyU/hqdefault.jpg" },
+  { id: 10, title: "Solar System", cls: "Class 5", yt: "https://youtu.be/ErUZVWUP0c4?si=6JXDs5LllayFUiCv", thumb: "https://img.youtube.com/vi/ErUZVWUP0c4/hqdefault.jpg" },
 ];
 
 export const events = [
