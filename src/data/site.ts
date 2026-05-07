@@ -27,7 +27,7 @@ export const videos = [
   { id: 3, title: "Basic Addition & Subtraction", cls: "Class 2", yt: "https://youtu.be/igcoDFokKzU?si=xXIQ548lvuFujleM", thumb: "https://img.youtube.com/vi/igcoDFokKzU/hqdefault.jpg" },
   { id: 4, title: "Our Environment", cls: "Class 2", yt: "https://youtu.be/rweqZPmfg_U?si=u7DJFps5qUDO6wCs", thumb: "https://img.youtube.com/vi/rweqZPmfg_U/hqdefault.jpg" },
   { id: 5, title: "Multiplication Tables", cls: "Class 3", yt: "https://youtu.be/CgkbDcSaHl0?si=TaURCIh-axQ_tNn-", thumb: "https://img.youtube.com/vi/CgkbDcSaHl0/hqdefault.jpg" },
-  { id: 6, title: "Plants & Animals", cls: "Class 3", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1444664194527-3a335fb8b673?w=600&q=80" },
+  { id: 6, title: "Plants & Animals", cls: "Class 3", yt: "https://youtu.be/J0rcLGgrzT4?si=zCrIUuN8v4wI4TeS", thumb: "https://img.youtube.com/vi/J0rcLGgrzT4/hqdefault.jpg" },
   { id: 7, title: "Fractions Made Easy", cls: "Class 4", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=80" },
   { id: 8, title: "States of Matter", cls: "Class 4", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=600&q=80" },
   { id: 9, title: "Geometry Basics", cls: "Class 5", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=80" },
