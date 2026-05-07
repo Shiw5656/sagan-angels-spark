@@ -24,7 +24,7 @@ export const trustees = [
 export const videos = [
   { id: 1, title: "Introduction to Numbers", cls: "Class 1", yt: "https://youtu.be/ZJEIKkPXirg", thumb: "https://img.youtube.com/vi/ZJEIKkPXirg/hqdefault.jpg" },
   { id: 2, title: "Fun with English Alphabets", cls: "Class 1", yt: "https://youtu.be/xkEHzmBSqOU", thumb: "https://img.youtube.com/vi/xkEHzmBSqOU/hqdefault.jpg" },
-  { id: 3, title: "Basic Addition & Subtraction", cls: "Class 2", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=80" },
+  { id: 3, title: "Basic Addition & Subtraction", cls: "Class 2", yt: "https://youtu.be/igcoDFokKzU?si=xXIQ548lvuFujleM", thumb: "https://img.youtube.com/vi/igcoDFokKzU/hqdefault.jpg" },
   { id: 4, title: "Our Environment", cls: "Class 2", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&q=80" },
   { id: 5, title: "Multiplication Tables", cls: "Class 3", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=600&q=80" },
   { id: 6, title: "Plants & Animals", cls: "Class 3", yt: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", thumb: "https://images.unsplash.com/photo-1444664194527-3a335fb8b673?w=600&q=80" },
