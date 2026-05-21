@@ -60,8 +60,8 @@ const Home = () => {
       <section className="container -mt-6 md:-mt-10 relative z-10">
         <div className="grid sm:grid-cols-3 gap-4 md:gap-6 bg-card rounded-3xl shadow-card border border-border p-6 md:p-10">
           {[
-            { num: 200, label: "Students", icon: Users },
-            { num: 10, label: "Teachers", icon: GraduationCap },
+            { num: 350, label: "Students", icon: Users },
+            { num: 14, label: "Teachers", icon: GraduationCap },
             { num: 8, label: "Years of Excellence", icon: Sparkles },
           ].map((s) => (
             <div key={s.label} className="text-center group">
