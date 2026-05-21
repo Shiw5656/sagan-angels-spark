@@ -11,6 +11,7 @@ const links = [
   { to: "/teachers", label: "Teachers" },
   { to: "/inspiration", label: "Inspiration" },
   { to: "/videos", label: "Videos" },
+  { to: "/career", label: "Career" },
   { to: "/events", label: "Events" },
   { to: "/contact", label: "Contact" },
 ];
